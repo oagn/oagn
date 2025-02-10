@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agnethe
 - 💻 I'm working on a PhD project
-- 👀 I’m interested in disease ecology, computer vision and open source anything
+- 👀 I’m interested in disease ecology, wildlife disease monitoring and computer vision
 - 🌱 I’m currently learning as much as possible
 - 📫 How to reach me: @theSeimParticle
 
